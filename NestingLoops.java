@@ -13,7 +13,7 @@ public class NestingLoops{
                 System.out.print(a + "-" + b + " ");
             }
             // * You will add a line of code here.
-            System.out.println(a);
+            System.out.println();
         }
         System.out.println("\n");
     }
@@ -25,4 +25,4 @@ public class NestingLoops{
 
 // Question 3: Each print is now on a new line.
 
-// Question 4: After the inner loop runs, variable a is printed and then the outer loop increments and runs again. The output for the incremented variable a is printed on a new line.
+// Question 4: After the inner loop runs, the outer loop increments and runs again. The output for the incremented variable a is printed on a new line.
